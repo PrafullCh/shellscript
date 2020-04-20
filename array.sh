@@ -1,0 +1,8 @@
+echo "IFS $IFS"
+echo "SHELL $SHELL"
+echo "* $*"
+echo "@ $@"
+echo "$ $ $$"
+echo "_ $_"
+echo "? $?"
+echo "! $!"
